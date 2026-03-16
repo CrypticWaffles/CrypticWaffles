@@ -22,7 +22,7 @@ Selected Projects
 - NeighborhoodNet — Community reporting and local communication mobile app built with React Native and Firebase. Demo: https://1drv.ms/p/c/b6c0d45c28bc44af/IQAKJOaLQCN8Q56Sxs3oLTXCARg-VGTMX8dLLvevOUX7fcY?e=O9XHag
 - Hospital Management System — Full-stack system using SignalR, C#, and MongoDB with real-time communication. Repo: https://github.com/CrypticWaffles/HospitalManagementSystem · Demo: https://1drv.ms/v/c/b6c0d45c28bc44af/IQDn2q6INyUrSIUVWJ-1AgfQAfOvLuc1tmZIJtCOjTIRFSs?e=jyml0R
 - E-Voter — Online voting platform built with Sails.js and PostgreSQL. Repo: https://github.com/CrypticWaffles/TheMiddlesRepo · Demo: https://1drv.ms/p/c/b6c0d45c28bc44af/IQD2aFgDOjo1Rr6Vsu0_60ahAcwdOkf9KtRGnjGf69LcSrE?e=DbOh6a
-- ShowList — Android app for tracking movies and TV shows (Kotlin, SQLite). Repo: https://github.com/CrypticWaffles/ShowList
+- ShowList — Android app for tracking movies and TV shows (Java, SQLite). Repo: https://github.com/CrypticWaffles/ShowList
 
 Technical Skills
 ----------------
