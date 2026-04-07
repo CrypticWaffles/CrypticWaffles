@@ -21,7 +21,7 @@ Selected Projects
 - Reaper — A React Native daily reflection app that integrates with HealthKit. Measures behavior trends and provides daily reflections. (In Progress)
 - NeighborhoodNet — Community reporting and local communication mobile app built with React Native and Firebase. 
 - Hospital Management System — Full-stack system using SignalR, C#, and MongoDB with real-time communication. [Repo](https://github.com/CrypticWaffles/HospitalManagementSystem)
-- E-Voter — Online voting platform built with Sails.js and PostgreSQL. [Repo](https://github.com/CrypticWaffles/TheMiddlesRepo)
+- E-Voter — Online voting platform built with Sails.js and Sqlite. [Repo](https://github.com/CrypticWaffles/TheMiddlesRepo)
 - Queued — Android app for tracking movies and TV shows (Java, SQLite). [Repo](https://github.com/CrypticWaffles/Queued)
 
 Technical Skills
