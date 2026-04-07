@@ -38,7 +38,7 @@ Current
 
 Education
 ---------
-- Bellevue College — Bachelor of Applied Science in Software Development (Expected May 2027)
+- Bellevue College — Bachelor of Applied Science in Software Development (Expected December 2026)
 	- GPA: 3.7 · Relevant coursework: Data Structures & Algorithms, Application Architecture, Advanced Web Development
 - Bellevue College — Associate of Applied Science in Software Development (Received December 2024, With Honors)
 	- GPA: 3.68 · Relevant coursework: Object-Oriented Programming, Server-Side Web Development, Database Theory & SQL
