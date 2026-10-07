@@ -1,58 +1,30 @@
-
-
-
 # Miles Griffith
 
-Software Developer | Mobile & Full-Stack Development
+Full-stack developer in the Seattle area, graduating from Bellevue College in December 2026 with a B.A.S. in Software Development. I build web applications with React, Node.js, C#/.NET, and SQL.
 
-Professional Summary
---------------------
-Software developer with an Associate of Applied Science in Software Development and currently pursuing a Bachelor of Applied Science. I build practical mobile and full-stack applications, with a focus on maintainable code, reliable backend services, and clear team collaboration.
+I'm looking for entry-level software engineering roles, in the Seattle area or remote.
 
-Core Strengths
---------------
-- Mobile app development (React Native, Expo)
-- Backend development and APIs (Node.js, C#/.NET, SignalR)
-- Databases & persistence (PostgreSQL, MongoDB, SQLite)
-- Project collaboration, problem solving, and documentation
+## Projects
 
-Selected Projects
------------------
-- Reaper — A React Native daily reflection app that integrates with HealthKit. Measures behavior trends and provides daily reflections. (In Progress)
-- Hospital Management System — Full-stack system using SignalR, C#, and MongoDB with real-time communication. [Repo](https://github.com/CrypticWaffles/HospitalManagementSystem)
-- E-Voter — Online voting platform built with Sails.js and Sqlite. [Repo](https://github.com/CrypticWaffles/TheMiddlesRepo)
-- Queued — Android app for tracking movies and TV shows (Java, SQLite). [Repo](https://github.com/CrypticWaffles/Queued)
+**[Pipeline](https://github.com/CrypticWaffles/Pipeline)** · [live demo](https://pipeline-nu-ecru.vercel.app)
+Job-application tracker with a drag-and-drop Kanban board, Google sign-in, and a metrics dashboard. React, Express, PostgreSQL, with API tests and CI on GitHub Actions.
 
-Technical Skills
-----------------
-- Languages: JavaScript, C#, SQL, HTML/CSS, Kotlin, Python, Java
-- Frameworks & Tools: React, React Native, Expo, Node.js, .NET, Sails.js, SignalR
-- Databases & Cloud: PostgreSQL, Firebase, MongoDB, Google Cloud
-- Tools: Git, GitHub, Docker, VS Code, Expo
+**[Hospital Management System](https://github.com/CrypticWaffles/HospitalManagementSystem)**
+Windows Forms client with an ASP.NET Core SignalR server for real-time chat and a live dashboard. C#, SQL Server, MongoDB. Built with one teammate.
 
-Current
--------
-- Building: Reaper — a React Native daily reflection app
-- Learning: Software Testing & Project Management
+**[E-Voter](https://github.com/CrypticWaffles/E-Voter)** · [live demo](https://e-voter-5tp3.onrender.com)
+Civic engagement app for watching legislative videos and voting, with results by state. Node.js and Sails.js. I was lead developer and product owner on a team of four.
 
-Education
----------
-- Bellevue College — Bachelor of Applied Science in Software Development (Expected December 2026)
-	- GPA: 3.7 · Relevant coursework: Data Structures & Algorithms, Application Architecture, Advanced Web Development
-- Bellevue College — Associate of Applied Science in Software Development (Received December 2024, With Honors)
-	- GPA: 3.68 · Relevant coursework: Object-Oriented Programming, Server-Side Web Development, Database Theory & SQL
+**[Queued](https://github.com/CrypticWaffles/Queued)**
+Android TV-show tracker with TVmaze API search and local SQLite storage. Java.
 
-Experience
-----------
-- Warehouse Receiver, Snoqualmie Casino & Hotel (September 2025 – Present)
-	- Managed incoming shipments, maintained inventory records, and coordinated deliveries across departments.
-- In-Store Shopping Lead, Safeway (September 2023 – September 2024)
-	- Led a team, created onboarding training, and improved order accuracy and throughput.
-- In-Store Shopper, Safeway (February 2023 – September 2023)
-	- Fulfilled customer orders accurately and collaborated with team members to resolve issues.
+## Skills
 
-Contact & Links
----------------
-Email: milesbgriffith@gmail.com
-Portfolio: https://mbgriffi.ddns.net
-LinkedIn: https://www.linkedin.com/in/mbgriffi/
+- **Languages:** JavaScript, C#, SQL, Java
+- **Frameworks:** React, Node.js, Express, ASP.NET Core, SignalR
+- **Databases:** PostgreSQL, SQL Server, MongoDB, SQLite
+- **Tools:** Git, GitHub Actions, Vitest, Vercel, Railway
+
+## Contact
+
+[Portfolio](https://mbgriffi.ddns.net) · [LinkedIn](https://www.linkedin.com/in/mbgriffi) · milesbgriffith@gmail.com
